@@ -87,13 +87,13 @@ body.bg_style_5 {
 }
 
 ::-moz-selection {
-  background: #5F8295;
+  background: #5f957c;
   text-shadow: none;
   color: #ffffff;
 }
 
 ::selection {
-  background: #5F8295;
+  background: #955f73;
   text-shadow: none;
   color: #ffffff;
 }
@@ -109,10 +109,10 @@ button {
 }
 
 a {
-  color: #007AFF;
+  color: #00ff04;
 }
 a:hover, a:focus, a:active {
-  color: #004999;
+  color: #997d00;
 }
 
 h1, h2 {
@@ -141,7 +141,7 @@ h5.over-title {
   margin: 20px 0;
 }
 .mainTitle small {
-  color: #8e8e93;
+  color: #93908e;
   font-size: 17px;
   font-weight: 300;
   letter-spacing: 0;
@@ -153,7 +153,7 @@ h5.over-title {
 }
 
 .ct-callout {
-  border-color: #007AFF;
+  border-color: #ffd000;
   border-image: none;
   border-radius: 0;
   border-style: solid;

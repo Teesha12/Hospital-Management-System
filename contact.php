@@ -1,5 +1,5 @@
-<?php 
-$con=mysqli_connect("localhost","root","","myhmsdb");
+<?php //
+/* $con=mysqli_connect("localhost","root","","myhmsdb");
 if(isset($_POST['btnSubmit']))
 {
 	$name = $_POST['txtName'];
@@ -17,4 +17,4 @@ if(isset($_POST['btnSubmit']))
 		echo 'window.location.href = "contact.html";';
 		echo '</script>';
     }
-}
+}//

@@ -2,12 +2,12 @@
 /*  Theme 2
 /* ---------------------------------------------------------------------- */
 body {
-  background: #F0F3F4;
+  background: #f4f2f0;
 }
 
 @media (max-width: 991px) {
   .app-content {
-    background: #F0F3F4;
+    background: #f4f2f0;
   }
 }
 

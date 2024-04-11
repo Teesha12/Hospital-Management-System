@@ -78,7 +78,7 @@ if(isset($_POST['docsub1']))
 
   <style >
     .bg-primary {
-    background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+    background: -webkit-linear-gradient(left, #e67710, #00c6ff);
 }
 
 .col-md-4{
@@ -88,7 +88,7 @@ if(isset($_POST['docsub1']))
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #342ac1;
+    background-color: #e67710;
     border-color: #007bff;
 }
 .text-primary {
